@@ -1,4 +1,4 @@
-import java.util.Stack;
+iimport java.util.Stack;
 import java.util.Scanner;
 class PalindromeTest {
 
@@ -25,3 +25,4 @@ class PalindromeTest {
             System.out.println("The input String is not a palindrome.");
 
     }
+}
